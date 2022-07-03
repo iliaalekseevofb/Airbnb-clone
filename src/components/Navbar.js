@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav>
         <a href = "./">
-            <img className='navbar-logo' src={Airbnb} alt='Airbnb-logo' />
+            <img src={Airbnb} alt='Airbnb-logo' />
         </a>
     </nav>
   )
