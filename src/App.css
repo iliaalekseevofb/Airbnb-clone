@@ -6,6 +6,10 @@
     padding: 0;
 }
 
+.App-cards {
+    display: flex;
+}
+
 nav {
     width: 100%;
     height: 70px;
@@ -48,7 +52,7 @@ nav {
 
 .card {
     font-family: 'Poppins';
-    margin: 0 30px 30px 30px;
+    margin: 0 0 30px 30px;
     cursor: pointer;
     width: fit-content;
 }
