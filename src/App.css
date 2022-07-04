@@ -24,7 +24,7 @@ nav {
 .hero {
     width: 100%;
     height: 100%;
-    padding: 50px 30px;
+    padding: 50px 30px 30px 30px;
     font-family: 'Poppins';
 }
 
@@ -43,6 +43,43 @@ nav {
 
 .hero p {
     font-size: 16px;
+    font-weight: 300;
+}
+
+.card {
+    font-family: 'Poppins';
+    margin: 0 30px 30px 30px;
+    cursor: pointer;
+    width: fit-content;
+}
+
+.card-text {
+    font-size: 13px;
+}
+
+.card-text__score {
+    display: flex;
+    font-weight: 300;
+}
+
+.card-text__score-black {
+    padding: 0 3px;
+}
+
+.card-text__score-gray {
+    color: #918E9B;
+}
+
+.card-text p {
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.card-text__price span:first-child {
+    font-weight: 600;
+}
+
+.card-text__price span:last-child {
     font-weight: 300;
 }
 
