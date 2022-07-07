@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Airbnb-clone/static/css/main.fe854f52.css",
+    "main.js": "/Airbnb-clone/static/js/main.24deacfc.js",
+    "static/media/layout.svg": "/Airbnb-clone/static/media/layout.88b1fae2e9584b8fe945f3374f65200d.svg",
+    "static/media/bike.svg": "/Airbnb-clone/static/media/bike.0e97c325a5ff50b5747008f977abfa19.svg",
+    "static/media/KatieZaferes.svg": "/Airbnb-clone/static/media/KatieZaferes.7b760c666938b362675042279b8cfa0c.svg",
+    "static/media/wedding.svg": "/Airbnb-clone/static/media/wedding.f0ee7b086e28cc836cc8bd0eca5a135b.svg",
+    "static/media/airbnb.svg": "/Airbnb-clone/static/media/airbnb.b28cf7f017befbd331c4020b8002efbd.svg",
+    "static/media/star.svg": "/Airbnb-clone/static/media/star.843eaf721755cb1f4645b2410a39ee41.svg",
+    "index.html": "/Airbnb-clone/index.html",
+    "main.fe854f52.css.map": "/Airbnb-clone/static/css/main.fe854f52.css.map",
+    "main.24deacfc.js.map": "/Airbnb-clone/static/js/main.24deacfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe854f52.css",
+    "static/js/main.24deacfc.js"
+  ]
+}
